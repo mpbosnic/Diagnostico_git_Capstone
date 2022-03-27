@@ -1,1 +1,1 @@
-# Diagn-stico_gitflow_Capstone
+# Diagnostico_git_Capstone
